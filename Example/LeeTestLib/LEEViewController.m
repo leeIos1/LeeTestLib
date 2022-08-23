@@ -7,6 +7,7 @@
 //
 
 #import "LEEViewController.h"
+#import "LeeTestLog.h"
 
 @interface LEEViewController ()
 
@@ -17,6 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [[LeeTestLog new] lee_log];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

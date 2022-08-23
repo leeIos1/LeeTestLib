@@ -1,0 +1,16 @@
+PODS:
+  - LeeTestLib (0.1.0)
+
+DEPENDENCIES:
+  - LeeTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  LeeTestLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LeeTestLib: 6c12fb8401d219d84935a1cf865f0a1e7daf3a20
+
+PODFILE CHECKSUM: 287e5e50311218911a7d033c9f096c71389e0dec
+
+COCOAPODS: 1.11.3

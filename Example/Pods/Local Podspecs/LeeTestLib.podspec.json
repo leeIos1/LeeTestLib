@@ -1,0 +1,22 @@
+{
+  "name": "LeeTestLib",
+  "version": "0.1.0",
+  "summary": "leetest",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/leeIos1/LeeTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wwjz": "963548472@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/leeIos1/LeeTestLib",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "LeeTestLib/Classes/**/*"
+}
