@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/leeIos1/LeeTestLib'
+  s.homepage         = 'https://github.com/leeIos1/LeeTestLib.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wwjz' => '963548472@qq.com' }
-  s.source           = { :git => 'https://github.com/leeIos1/LeeTestLib', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/leeIos1/LeeTestLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'LeeTestLib/Classes/**/*'
   
